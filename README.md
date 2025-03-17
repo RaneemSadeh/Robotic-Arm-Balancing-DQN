@@ -97,7 +97,7 @@ The training process produces several plots to visualize the agent's performance
 ## Future Improvements
 
 1. **Hyperparameter Tuning**: Experiment with different learning rates, discount factors, and exploration rates to improve performance.
-2. **Advanced Architectures**: Implement more advanced reinforcement learning algorithms like DDPG (Deep Deterministic Policy Gradient) or SAC (Soft Actor-Critic) for continuous action spaces.
+2. **Advanced Architectures**: Implement more advanced reinforcement learning algorithms like DDPG "Deep Deterministic Policy Gradient" or SAC (Soft Actor-Critic) for continuous action spaces.
 3. **Prioritized Experience Replay**: Use prioritized experience replay to focus on important experiences and improve learning efficiency.
 4. **Multi-Agent Learning**: Explore multi-agent reinforcement learning to train multiple agents simultaneously and improve robustness.
 5. **Reward Shaping**: Adjust the reward function to provide more informative feedback to the agent, potentially speeding up learning.
