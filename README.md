@@ -12,7 +12,7 @@ The project demonstrates the use of:
 - **Neural Networks**: Built using PyTorch, the neural network learns to predict the optimal actions to balance the pendulum.
 - **Gymnasium**: A library for simulating reinforcement learning environments.
 
-![image](https://github.com/user-attachments/assets/8e5f4adf-20b3-4c39-bfdd-9ad6387490bc)
+   ![image](https://github.com/user-attachments/assets/8e5f4adf-20b3-4c39-bfdd-9ad6387490bc)
 
 
 ## Table of Contents
