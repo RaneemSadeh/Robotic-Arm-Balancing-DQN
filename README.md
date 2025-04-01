@@ -12,6 +12,9 @@ The project demonstrates the use of:
 - **Neural Networks**: Built using PyTorch, the neural network learns to predict the optimal actions to balance the pendulum.
 - **Gymnasium**: A library for simulating reinforcement learning environments.
 
+  ![image](https://github.com/user-attachments/assets/9cbdc740-4d1a-43a9-bf09-8f57fc4a5b1f)
+
+
 ## Table of Contents
 
 1. [Project Description](#project-description)
@@ -25,6 +28,8 @@ The project demonstrates the use of:
 ## Project Description
 
 The project focuses on training a robotic arm (simulated as a pendulum) to balance itself using a Deep Q-Learning (DQN) algorithm. The environment used is the "Pendulum-v1" from the Gymnasium library, which simulates a pendulum that can rotate around a fixed point. The goal is to apply torque to the pendulum to keep it upright.
+
+![image](https://github.com/user-attachments/assets/74750f6b-5fcb-42cd-82a9-b9688354cb43)
 
 The DQN agent uses a neural network to approximate the Q-value function, which estimates the expected cumulative reward for taking a particular action in a given state. The agent learns by interacting with the environment, storing experiences in a replay buffer, and updating the neural network using batches of experiences.
 
